@@ -1,0 +1,1 @@
+data:text/html,<script>document.write([...Array(20).keys()].map((x) => (x+1) ** 2).join())</script>
