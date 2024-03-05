@@ -1,0 +1,1 @@
+data:text/html,<style>.r{resize:both;overflow:auto}.b{border:1px solid}</style><table><tr><td class="r"></td><td></td></tr><tr><td></td><td class="b r"></td></tr></table>
