@@ -1,0 +1,1 @@
+data:text/html,<style>input{width:26em}</style><input autofocus oninput="let p=this.value.toLowerCase().replace(/[^a-z]/g,''),r='abcdefghijklmnopqrstuvwxyz'.replace(new RegExp('['+p+']','g'),'');this.nextSibling.value=p.length+' '+r+' '+r.length"><input disabled>
